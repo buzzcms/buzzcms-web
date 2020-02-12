@@ -1,8 +1,8 @@
 {
-  "name": "@goblindegook/gatsby-starter-typescript",
-  "description": "A Gatsby starter the way I like it.",
+  "name": "buzzcms",
+  "description": "Next generation headless cms, built marketer & site owner",
   "version": "1.0.0",
-  "author": "Luís Rodrigues <hello@goblindegook.com>",
+  "author": "buzzcms",
   "dependencies": {
     "@emotion/core": "^10.0.27",
     "@emotion/styled": "^10.0.27",

@@ -23,10 +23,10 @@ const gatsbyRemarkPlugins = [
 
 module.exports = {
   siteMetadata: {
-    title: 'TypeScript Gatsby Starter',
-    author: 'Luís Rodrigues',
-    description: 'A Gatsby starter using TypeScript.',
-    siteUrl: 'https://goblindegook-gatsby-starter-typescript.netlify.com',
+    title: 'Buzzcms',
+    author: 'Buzzcms',
+    description: 'Next generation headless cms, built marketer & site owner',
+    siteUrl: 'https://www.buzzcms.co',
   },
   plugins: [
     'gatsby-plugin-typescript',
